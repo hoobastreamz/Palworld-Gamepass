@@ -1,4 +1,4 @@
-# PalWorlds Mod Patcher
+# PalWorlds Multiplayer Patcher
 This is meant to be a Starter Pack, a basic organized setup for those who want to start tinkering
 
 FlyingMountSPUsage - NO SP COST While flying,
